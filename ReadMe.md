@@ -8,13 +8,13 @@ Project Name:RAMP PARKING SOLUTIONS
 
 Team Members:
 
-Madhavi Dewalkar-SY ENTC
+Madhavi Dewalkar
 
-Anushka Desai-SY ENTC
+Anushka Desai
 
-Riya Barne-SY ENTC
+Riya Barne
 
-Purva Bhosale-SY ENTC
+Purva Bhosale
 
 
 Project Description:
